@@ -1,2 +1,4 @@
+http://example.com/gallery/index.html
+http://example.com/gallery/summer/index.html
 http://example.com/2022/11/27/hello-world/
 http://example.com/
