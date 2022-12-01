@@ -1,5 +1,6 @@
+http://example.com/gallery/prision/index.html
+http://example.com/gallery/index.html
 http://example.com/2022/11/30/%E5%90%8E%E6%B9%96%E6%9C%80%E5%90%8E%E7%9A%84%E5%A4%8F%E5%A4%A9-%E5%90%8E%E8%AE%B0/
 http://example.com/gallery/summer/index.html
-http://example.com/gallery/index.html
 http://example.com/
 http://example.com/categories/%E7%9F%AD%E7%AF%87%E6%BC%AB%E7%94%BB/
