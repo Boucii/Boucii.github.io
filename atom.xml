@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-05-26T16:16:57.318Z</updated>
+  <updated>2024-02-12T14:15:27.893Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>limbo_of_noir</title>
+    <link href="http://example.com/2024/02/12/limbo-of-noir-%E5%90%8E%E8%AE%B0/"/>
+    <id>http://example.com/2024/02/12/limbo-of-noir-%E5%90%8E%E8%AE%B0/</id>
+    <published>2024-02-12T14:10:25.000Z</published>
+    <updated>2024-02-12T14:15:27.893Z</updated>
+    
+    
+    <summary type="html">漫画画面是什么,cinema又是什么?</summary>
+    
+    
+    
+    <category term="短篇漫画" scheme="http://example.com/categories/%E7%9F%AD%E7%AF%87%E6%BC%AB%E7%94%BB/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>英雄参上:后记</title>
