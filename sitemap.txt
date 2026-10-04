@@ -1,3 +1,4 @@
+http://example.com/2026/10/04/my-comics-collection/
 http://example.com/gallery/index.html
 http://example.com/link/index.html
 http://example.com/categories/index.html

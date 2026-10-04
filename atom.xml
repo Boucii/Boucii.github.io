@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2026-04-04T11:13:44.133Z</updated>
+  <updated>2026-10-04T04:14:28.409Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我的漫画合集</title>
+    <link href="http://example.com/2026/10/04/my-comics-collection/"/>
+    <id>http://example.com/2026/10/04/my-comics-collection/</id>
+    <published>2026-10-03T16:00:00.000Z</published>
+    <updated>2026-10-04T04:14:28.409Z</updated>
+    
+    <content type="html"><![CDATA[<p>这里整理了目前发布在本站的全部 11 部漫画，按作品时间从新到旧排列。点击作品标题即可阅读。</p><h2 id="2025"><a href="#2025" class="headerlink" title="2025"></a>2025</h2><ul><li><a href="/gallery/ladybird/">Lady Bird</a> · 2025&#x2F;12</li><li><a href="/gallery/flymetothemoon/">宇宙黑洞与荔枝精酿</a> · 2025&#x2F;08</li></ul><h2 id="2024"><a href="#2024" class="headerlink" title="2024"></a>2024</h2><ul><li><a href="/gallery/limbo%20of%20noir/">limbo of noir：分镜稿</a> · 2024&#x2F;02</li><li><a href="/gallery/%E6%88%91%E9%A3%9E%E8%BF%87%E5%8D%97%E6%96%B9,%E9%93%81%E8%BD%A8,%E5%92%8C%E5%8D%81%E4%BA%8C%E6%9C%88/">我飞过南方，铁轨，和十二月</a> · 2024&#x2F;02</li></ul><h2 id="2023"><a href="#2023" class="headerlink" title="2023"></a>2023</h2><ul><li><a href="/gallery/4abetterworld/">4 a better world</a> · 2023&#x2F;06</li><li><a href="/gallery/%E5%8E%A6%E9%97%A8/">厦门游记</a> · 2023&#x2F;06</li><li><a href="/gallery/%E8%8B%B1%E9%9B%84%E5%8F%82%E4%B8%8A/">英雄参上</a> · 2023&#x2F;05</li></ul><h2 id="2022"><a href="#2022" class="headerlink" title="2022"></a>2022</h2><ul><li><a href="/gallery/%E8%BF%99%E9%87%8C%E4%B9%9F%E4%B8%80%E6%A0%B7/">这里也一样</a> · 2022&#x2F;11</li><li><a href="/gallery/prison/">习作：格斗监狱</a> · 2022&#x2F;07</li><li><a href="/gallery/summer/">后湖最后的夏天</a> · 2022&#x2F;06</li><li><a href="/gallery/airport/">机场的雨</a> · 2022&#x2F;05</li></ul>]]></content>
+    
+    
+    <summary type="html">我的漫画作品合集，收录全部 11 部作品的阅读链接。</summary>
+    
+    
+    
+    
+    <category term="漫画" scheme="http://example.com/tags/%E6%BC%AB%E7%94%BB/"/>
+    
+  </entry>
   
   <entry>
     <title>情感先行漫画的创作方法论-从&lt;我破碎的真理子&gt;谈起</title>
